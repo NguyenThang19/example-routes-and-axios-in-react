@@ -1,0 +1,7 @@
+button.MuiButton-root{
+    transition: all 0.2s linear;
+    &:hover{
+        background-color: #4caf50;
+        color: #fff
+    }
+}

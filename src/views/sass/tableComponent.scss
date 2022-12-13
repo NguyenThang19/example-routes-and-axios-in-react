@@ -1,0 +1,9 @@
+.MuiGrid-root{
+    .icons{
+        transition: all 0.2s linear;
+        &:hover{
+            cursor: pointer;
+            color: #4caf50
+        }
+    }
+}

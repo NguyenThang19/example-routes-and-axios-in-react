@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 2px solid #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4197af;
+}
+
+.default{
+    color: #282c34;
+}
+
+.active{
+    color: #4197af;
+}
+
+.container-content{
+    margin-top: 36px;
+}

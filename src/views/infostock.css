@@ -1,0 +1,21 @@
+
+.container-1{
+    display: flex;
+    margin-top: 50px;
+
+}
+.container-left{
+    width: 50%;
+    margin-right: 100px
+}
+
+
+.container-right{
+    width: 50%;
+}
+
+table, td, th{
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 10px;
+}
